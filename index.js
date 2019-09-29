@@ -14,6 +14,7 @@ var rps = function(rounds) {
     }
 
     play('', rounds);
+    console.log(results)
     return results;
 }
 
